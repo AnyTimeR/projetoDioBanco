@@ -17,7 +17,7 @@
 
 ## Sobre o projeto
 Criando um Banco Digital com Java e Orientação a Objetos <br>
-A idéia desse desafio é aperfeiçoar o código Java através da orientação a objetos com seus conceitos e aplicações, e como forma de estudo, levei em consideração a criação de um banco digital, com métodos para depósito, saque e transferência. Nada muito grande nem extenso, e sim algo simples apenas para aprender cada vez mais sobre orientação a objetos. O exemplo em imagens segue uma situação em que uma Conta Corrente irá realizar uma transferência para uma Conta Poupança.
+A idéia deste projeto é aperfeiçoar o código Java através da orientação a objetos com seus conceitos e aplicações, e como forma de estudo, levei em consideração a criação de um banco digital, com métodos para depósito, saque e transferência. Nada muito grande nem extenso, e sim algo simples apenas para aprender cada vez mais sobre orientação a objetos. O exemplo em imagens segue uma situação em que uma Conta Corrente irá realizar uma transferência para uma Conta Poupança.
 
 ## Desafio
 Inclusão de Lombok ao projeto para reduzir a verbosidade de código.
