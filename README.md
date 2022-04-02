@@ -15,9 +15,12 @@
 5. Informações como Titular, Agência, Número e Saldo no extrato de conta poupança
 <img alt="print5" height="150" style="border-radius:50px;"          src="https://cdn.discordapp.com/attachments/661726579164184577/959593468106244157/Captura_de_tela_2022-04-01_201928.jpg">
 
-## Sobre o desafio
+## Sobre o projeto
 Criando um Banco Digital com Java e Orientação a Objetos <br>
 A idéia desse desafio é aperfeiçoar o código Java através da orientação a objetos com seus conceitos e aplicações, e como forma de estudo, levei em consideração a criação de um banco digital, com métodos para depósito, saque e transferência. Nada muito grande nem extenso, e sim algo simples apenas para aprender cada vez mais sobre orientação a objetos. O exemplo em imagens segue uma situação em que uma Conta Corrente irá realizar uma transferência para uma Conta Poupança.
+
+## Desafio
+Inclusão de Lombok ao projeto para reduzir a verbosidade de código.
 
 ## Por quê?
 Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de destacar códigos que eu mesmo fiz ou modifiquei. <br>
