@@ -20,7 +20,7 @@ Criando um Banco Digital com Java e Orientação a Objetos <br>
 A idéia desse desafio é aperfeiçoar o código Java através da orientação a objetos com seus conceitos e aplicações, e como forma de estudo, levei em consideração a criação de um banco digital, com métodos para depósito, saque e transferência. Nada muito grande nem extenso, e sim algo simples apenas para aprender cada vez mais sobre orientação a objetos. O exemplo em imagens segue uma situação em que uma Conta Corrente irá realizar uma transferência para uma Conta Poupança.
 
 ## Por quê?
-Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de eu destacar códigos que eu mesmo fiz ou modifiquei. <br>
+Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de destacar códigos que eu mesmo fiz ou modifiquei. <br>
 Email: alexcastro.contato@protonmail.com <br>
 LinkedIn: linkedin.com/in/itsAnyTimeR
 
