@@ -17,7 +17,7 @@ public class Main {
 		//corrente.imprimirExtrato();
 		//JOptionPane.showMessageDialog(null, "Você depositou 250 reais para a conta corrente com sucesso!");
 		
-	//Exemplo 2 - Transferência conta corrente para poupança (retirar comentários para teste de código)
+	//Exemplo 2 - Transferência conta corrente para poupança
 		corrente.depositar(100);
 		corrente.transferir(100, poupanca);
 		corrente.imprimirExtrato();
