@@ -23,9 +23,9 @@ A idéia deste projeto é aperfeiçoar o código Java através da orientação a
 Inclusão de Lombok ao projeto para reduzir a verbosidade de código.
 
 ## Por quê?
-Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de destacar códigos que eu mesmo fiz ou modifiquei. <br>
-Email: alexcastro.contato@protonmail.com <br>
-LinkedIn: linkedin.com/in/itsAnyTimeR
+Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de destacar códigos que eu mesmo fiz ou modifiquei. <br><br>
+[ProtonMail](alexcastro.contato@protonmail.com) <br>
+[LinkedIn](https://www.linkedin.com/in/itsanytimer/)
 
 ## Linguagem de Programação e IDE
 - Java
